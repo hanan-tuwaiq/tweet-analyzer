@@ -1,0 +1,12 @@
+/Users/hanans/Projects/tweet-analyzer/tweet-analyzer/bin/Debug/netcoreapp3.1/tweet-analyzer.deps.json
+/Users/hanans/Projects/tweet-analyzer/tweet-analyzer/bin/Debug/netcoreapp3.1/tweet-analyzer.runtimeconfig.json
+/Users/hanans/Projects/tweet-analyzer/tweet-analyzer/bin/Debug/netcoreapp3.1/tweet-analyzer.runtimeconfig.dev.json
+/Users/hanans/Projects/tweet-analyzer/tweet-analyzer/bin/Debug/netcoreapp3.1/tweet-analyzer.dll
+/Users/hanans/Projects/tweet-analyzer/tweet-analyzer/bin/Debug/netcoreapp3.1/tweet-analyzer.pdb
+/Users/hanans/Projects/tweet-analyzer/tweet-analyzer/obj/Debug/netcoreapp3.1/tweet-analyzer.csprojAssemblyReference.cache
+/Users/hanans/Projects/tweet-analyzer/tweet-analyzer/obj/Debug/netcoreapp3.1/tweet-analyzer.AssemblyInfoInputs.cache
+/Users/hanans/Projects/tweet-analyzer/tweet-analyzer/obj/Debug/netcoreapp3.1/tweet-analyzer.AssemblyInfo.cs
+/Users/hanans/Projects/tweet-analyzer/tweet-analyzer/obj/Debug/netcoreapp3.1/tweet-analyzer.csproj.CoreCompileInputs.cache
+/Users/hanans/Projects/tweet-analyzer/tweet-analyzer/obj/Debug/netcoreapp3.1/tweet-analyzer.dll
+/Users/hanans/Projects/tweet-analyzer/tweet-analyzer/obj/Debug/netcoreapp3.1/tweet-analyzer.pdb
+/Users/hanans/Projects/tweet-analyzer/tweet-analyzer/obj/Debug/netcoreapp3.1/tweet-analyzer.genruntimeconfig.cache
